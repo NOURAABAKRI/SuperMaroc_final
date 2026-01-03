@@ -1,0 +1,3 @@
+[submodule "SuperMarocFinal/superMaroc-api"]
+	path = SuperMarocFinal/superMaroc-api
+	url = https://github.com/NOURAABAKRI/SuperMaroc_final.git
